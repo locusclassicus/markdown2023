@@ -1,0 +1,22 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+# не меняйте этот код
+knitr::opts_chunk$set(echo = FALSE, results='asis')
+```
+
+```{r}
+# установка пакета -- выполняется один раз
+# install.packages("checkdown")
+
+# загрузка пакета
+library(checkdown)
+```
+
+Вопрос тут. Инструкция по ссылке: https://agricolamz.github.io/checkdown/ 
+
+```{r}
+# ваш код здесь 
+```
